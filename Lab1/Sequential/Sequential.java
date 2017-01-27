@@ -34,7 +34,6 @@ public class Sequential {
                }
 
                return 0;
-               //return (int) o1.charAt(0) < (int) o2.charAt(0) ? -1 : (int) o1.charAt(0) == (int) o2.charAt(0) ? 0 : 1;
             }
          });
       } catch (IOException e) {
